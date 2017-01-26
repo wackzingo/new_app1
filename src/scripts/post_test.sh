@@ -1,5 +1,5 @@
 # heroku
-ENDPOINT=https://fierce-cove-15201.herokuapp.com/rest/generic
+#ENDPOINT=https://fierce-cove-15201.herokuapp.com/rest/generic
 # local web runner deploy
 #ENDPOINT=http://localhost:8080/rest/generic
 # net beans deploy
